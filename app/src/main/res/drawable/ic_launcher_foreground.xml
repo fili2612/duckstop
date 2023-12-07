@@ -1,0 +1,5 @@
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+    android:src="@drawable/duck"
+    android:gravity="center"
+    android:width="4dp"
+    android:height="4dp"/>

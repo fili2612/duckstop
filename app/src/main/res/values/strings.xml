@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">duckstop</string>
+    <string name="accessibility_service_name">AppGuard Service</string>
+</resources>
